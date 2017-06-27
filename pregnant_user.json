@@ -1,0 +1,577 @@
+[
+   {
+      "id":"1",
+      "week":"5",
+      "message":"You have just missed your period, and you're already 5 weeks pregnant. Plan to go to the antenatal clinic soon"
+   },
+   {
+      "id":"2",
+      "week":"5",
+      "message":"Share the secret of your pregnancy with your partner and your doctor. Your doctor will give you iron and folic acid tablets to help your baby grow well"
+   },
+   {
+      "id":"3",
+      "week":"5",
+      "message":"Are you feeling sick? Most women do in early pregnancy. Try having some ginger or mint, and rest if you can"
+   },
+   {
+      "id":"4",
+      "week":"6",
+      "message":"Your baby is the size of an orange seed. He already has tiny hands and feet and his heart is beating"
+   },
+   {
+      "id":"5",
+      "week":"6",
+      "message":"Regular clinic visits in pregnancy help detect problems before they happen. Find out where your nearest clinic is for a healthy pregnancy"
+   },
+   {
+      "id":"6",
+      "week":"6",
+      "message":"Spotting or light bleeding is worrying but very common in pregnancy. If you have bleeding with pain, contact the clinic immediately"
+   },
+   {
+      "id":"7",
+      "week":"7",
+      "message":"Your baby's heart and brain are forming. Take iron and folic acid tablets daily to help her stay safe. You can get them free at the clinic"
+   },
+   {
+      "id":"8",
+      "week":"7",
+      "message":"Eat well, so your baby will grow well. Try to eat some meat, eggs or beans every day with some green vegetables and milk, yoghurt or soya"
+   },
+   {
+      "id":"9",
+      "week":"7",
+      "message":"Herbal concoctions are prohibited during pregnancy. They can harm your baby. Do not take any, no matter who they are from!"
+   },
+   {
+      "id":"10",
+      "week":"8",
+      "message":"Your baby's bones are developing. You may feel sick or vomit. Eat when you can and drink plenty of clean water"
+   },
+   {
+      "id":"11",
+      "week":"8",
+      "message":"Some medicines can harm your baby. If your friends and family suggest a medicine, always check with your doctor first before taking it"
+   },
+   {
+      "id":"12",
+      "week":"8",
+      "message":"Have you been tested for HIV? Don?t be scared; get tested with your partner. If you have HIV, you can take steps to protect your baby"
+   },
+   {
+      "id":"13",
+      "week":"9",
+      "message":"You are 2 months pregnant. Even though the baby inside you is tiny and you may be very tired. That's normal. Growing a baby is hard work!"
+   },
+   {
+      "id":"14",
+      "week":"9",
+      "message":"Protect yourself from infections. Wash your hands with soap before you prepare meals, after using the toilet and after handling animals"
+   },
+   {
+      "id":"15",
+      "week":"9",
+      "message":"Tetanus Toxoid vaccination is important in protecting you & your baby from infections during labour. Please visit your clinic to get the necessary vaccine"
+   },
+   {
+      "id":"16",
+      "week":"10",
+      "message":"Your baby is now the size of a small cherry. Arrange to go to the clinic for a check-up and for your iron and folic acid tablets. Take these each day"
+   },
+   {
+      "id":"17",
+      "week":"10",
+      "message":"It is important that you attend your antenatal clinic and see your doctor every FOUR weeks from now till you are 28 weeks pregnant!"
+   },
+   {
+      "id":"18",
+      "week":"10",
+      "message":"Iodine helps your baby's brain develop. Salt often has iodine added to it. Ask at the clinic where you can buy iodised salt"
+   },
+   {
+      "id":"19",
+      "week":"11",
+      "message":"Your baby is now the size of your thumb and is protected by the water he floats in, inside your womb"
+   },
+   {
+      "id":"20",
+      "week":"11",
+      "message":"At the clinic you'll need a tetanus injection and a blood test to check your iron levels. Tests for STIs like syphilis and HIV can also be done"
+   },
+   {
+      "id":"21",
+      "week":"11",
+      "message":"It is important to do an ultra sound scan very early in pregnancy. It helps your doctor accurately date the pregnancy and predict your due date"
+   },
+   {
+      "id":"22",
+      "week":"12",
+      "message":"Drinking alcohol is bad for you and your baby. It could make your baby weak and ill. Never drink alcohol in pregnancy"
+   },
+   {
+      "id":"23",
+      "week":"12",
+      "message":"If you have a fever, or start shaking and feeling sick, go to the clinic. A fever can affect your baby as well as you, and needs treating"
+   },
+   {
+      "id":"24",
+      "week":"12",
+      "message":"Never take any drugs not prescribed by a doctor now that you?re pregnant!"
+   },
+   {
+      "id":"25",
+      "week":"13",
+      "message":"Your baby is as big as half a banana! She is growing sucking muscles in her mouth. She will be ready to breastfeed as soon as she is born"
+   },
+   {
+      "id":"26",
+      "week":"13",
+      "message":"Help your baby today with daily intake of folic acid and iron. Don?t postpone, start now!"
+   },
+   {
+      "id":"27",
+      "week":"13",
+      "message":"Smoking harms you and your baby. If you smoke, your baby could be born weak and catch infections easily. Stop smoking and avoid smoky places"
+   },
+   {
+      "id":"28",
+      "week":"14",
+      "message":"Congratulations!!! You made it through first trimester. Your risk of losing the baby is lower now. Nausea and tiredness will get better "
+   },
+   {
+      "id":"29",
+      "week":"14",
+      "message":"Your baby is growing hair, and he can also grasp, frown and even suck his thumb! Try to eat an extra mouthful of food at each meal and extra snacks"
+   },
+   {
+      "id":"30",
+      "week":"14",
+      "message":"You should begin to feel less sick now and get hungry instead. Eat fruit, vegetables, and meat or peas, and beans"
+   },
+   {
+      "id":"31",
+      "week":"15",
+      "message":"Inside you, your baby will just fit in the palm of your hand. He even has tiny fingernails and eye lashes"
+   },
+   {
+      "id":"32",
+      "week":"15",
+      "message":"Drinking alcohol can harm your baby. It can affect her growth. It's best not to have any alcohol. Drink plenty of clean water"
+   },
+   {
+      "id":"33",
+      "week":"15",
+      "message":"Giving birth puts you and your baby at risk of tetanus. The Tetanus vaccine can protect you both. Ask your doctor about it"
+   },
+   {
+      "id":"34",
+      "week":"16",
+      "message":"Your baby is now the size of a pear. He may have found his first toy - the umbilical cord! After the birth, keep the cord stump clean"
+   },
+   {
+      "id":"35",
+      "week":"16",
+      "message":"Mosquitoes can cause illnesses like malaria. Always sleep under an insecticide-treated net to prevent mosquitoes from biting you"
+   },
+   {
+      "id":"36",
+      "week":"16",
+      "message":"You will begin to feel your baby move\/kick about around this time. This is a very special moment for mother and baby"
+   },
+   {
+      "id":"37",
+      "week":"17",
+      "message":"Your baby is now the size of a small mango. If you are constipated, drink plenty of clean water and eat fruit and vegetables"
+   },
+   {
+      "id":"38",
+      "week":"17",
+      "message":"Keeping clean helps protect you and your baby from infections. Wash your hands with soap after the toilet and before meals"
+   },
+   {
+      "id":"39",
+      "week":"17",
+      "message":"You may need extra money during pregnancy, for travel to the clinic and for when your baby arrives. Start saving a little bit every day"
+   },
+   {
+      "id":"40",
+      "week":"18",
+      "message":"Your baby is twice the size he was last week. He's moving more and you will feel him soon. He can hear your heartbeat now"
+   },
+   {
+      "id":"41",
+      "week":"18",
+      "message":"Tired with headaches and dizziness? You may need iron. Remember to take your daily iron and folic acid pills. Get more from the clinic"
+   },
+   {
+      "id":"42",
+      "week":"18",
+      "message":"Prevent malaria in pregnancy by taking the 1st dose of the preventive therapy. Talk to your doctor about it in your next clinic visit"
+   },
+   {
+      "id":"43",
+      "week":"19",
+      "message":"Your baby has all her major organs now - the heart, liver and kidneys. She's even started developing taste buds on her tongue!"
+   },
+   {
+      "id":"44",
+      "week":"19",
+      "message":"Ask about your blood group at the clinic. Check if relatives have the same blood group. Ask them if they will donate blood if you need it"
+   },
+   {
+      "id":"45",
+      "week":"19",
+      "message":"It is important to do an ultra sound now. It helps to detect any abnormalities in the pregnancy early on"
+   },
+   {
+      "id":"46",
+      "week":"20",
+      "message":"You're halfway through pregnancy! Your baby floats in fluid. This protects him from bumps, keeps him warm and lets him move around"
+   },
+   {
+      "id":"47",
+      "week":"20",
+      "message":"The external sex organs of your baby are now clearly visible. You can now do an ultrasound scan to find out your baby?s sex"
+   },
+   {
+      "id":"48",
+      "week":"20",
+      "message":"Feeling out of breath when you walk? Your womb is squashing your lungs now. Go to the clinic if you find you are breathless all the time"
+   },
+   {
+      "id":"49",
+      "week":"21",
+      "message":"Your baby can hear your heartbeat and other noises from inside your body. He can hear your voice as well, so talk and sing to him"
+   },
+   {
+      "id":"50",
+      "week":"21",
+      "message":"Go to the clinic if you have a fever, bleeding or pain when you pass urine. Make sure your family know these signs, too"
+   },
+   {
+      "id":"51",
+      "week":"21",
+      "message":"You should be feeling your baby move\/kick about by now. If not, talk to your doctor about it today"
+   },
+   {
+      "id":"52",
+      "week":"22",
+      "message":"Your baby can turn over as well as kick. This is a good sign. Tell your doctor if you notice your baby moving much less than usual"
+   },
+   {
+      "id":"53",
+      "week":"22",
+      "message":"As your baby grows inside you, he will need more food. Slowly increase the amount of food you eat as your stomach grows"
+   },
+   {
+      "id":"54",
+      "week":"22",
+      "message":"Make water your friend. Drinking a glass of water between meals serves as nourishing fluid during pregnancy to increase blood volume needed for you and baby"
+   },
+   {
+      "id":"55",
+      "week":"23",
+      "message":"Your baby now has definite times of sleeping and waking. He may wake you with his kicks. Go to the clinic if the kicks slow down or stop"
+   },
+   {
+      "id":"56",
+      "week":"23",
+      "message":"If a family member has TB, they need treatment at the clinic. It will help protect you against TB too. You need to be healthy for your baby"
+   },
+   {
+      "id":"57",
+      "week":"23",
+      "message":"The area around your nipples may become darker and your breasts may feel heavier now. Your body is preparing to breastfeed your baby"
+   },
+   {
+      "id":"58",
+      "week":"23",
+      "message":"Remember NEVER to hide details of previous pregnancies, abortions or miscarriages from your doctor. ALL information is needed to make your pregnancy better"
+   },
+   {
+      "id":"59",
+      "week":"24",
+      "message":"Your baby's sense of taste is developing, ready to enjoy your milk! Your breast milk will make your baby grow strong. It's the perfect food"
+   },
+   {
+      "id":"60",
+      "week":"24",
+      "message":"In your next clinic visit, make sure you get more iron and folic acid tablets. If the clinic is out of stock, ask where else you can get them"
+   },
+   {
+      "id":"61",
+      "week":"24",
+      "message":"Please visit the hospital IMMEDIATELY if you get severe or long-lasting headaches, feel dizzy or have blurred vision"
+   },
+   {
+      "id":"62",
+      "week":"25",
+      "message":"Your baby is gaining fat. This fat will help keep him warm when he is born. You can help him by eating a few extra mouthfuls at each meal"
+   },
+   {
+      "id":"63",
+      "week":"25",
+      "message":"Except your doctor advices against it, sex during pregnancy is perfectly okay during pregnancy. It helps you and your partner grow as a couple"
+   },
+   {
+      "id":"64",
+      "week":"25",
+      "message":"Make a plan with your family to put your new baby to the breast in the first hour. Your creamy first milk will protect him from illness"
+   },
+   {
+      "id":"65",
+      "week":"26",
+      "message":"Your baby is about the size of a pineapple. He is practising moving the muscles in his chest, so he will be ready to breathe at birth"
+   },
+   {
+      "id":"66",
+      "week":"26",
+      "message":"Complications sometimes occur when giving birth. It's best to try and have your baby at a hospital; that way there'll be help at hand"
+   },
+   {
+      "id":"67",
+      "week":"26",
+      "message":"Please visit the hospital IMMEDIATELY if you feel discomfort, pain or cramping in the lower abdomen or feel discomfort, pain, or burning when urinating"
+   },
+   {
+      "id":"68",
+      "week":"27",
+      "message":"Babies dream at this stage in pregnancy. Perhaps he's dreaming about being born! If he's not as active as usual, tell your doctor"
+   },
+   {
+      "id":"69",
+      "week":"27",
+      "message":"Calcium helps your baby's bones and teeth grow strong. Drink milk and eat beans or vegetables to get plenty of calcium"
+   },
+   {
+      "id":"70",
+      "week":"27",
+      "message":"Slightly swollen hands and feet are common in pregnancy. But if you have sudden swelling and headaches, go to the clinic"
+   },
+   {
+      "id":"71",
+      "week":"28",
+      "message":"Your baby responds to change - she may move when you undress! Feel thirsty and need to urinate a lot? Tell your doctor, it may be diabetes"
+   },
+   {
+      "id":"72",
+      "week":"28",
+      "message":"It is important that you attend your antenatal clinic and see your doctor every TWO weeks from now till you are 36 weeks!"
+   },
+   {
+      "id":"73",
+      "week":"28",
+      "message":"Drink plenty of water and eat fruit to keep your stools soft. If you have itching around the anus, wash the area after you open your bowels"
+   },
+   {
+      "id":"74",
+      "week":"29",
+      "message":"Eat two extra mouthfuls of food at each meal and a healthy snack between meals. Eat something extra before you go to bed, too"
+   },
+   {
+      "id":"75",
+      "week":"29",
+      "message":"If you need a blood transfusion, your friends and family can donate. Ask them to find out if their blood group matches yours"
+   },
+   {
+      "id":"76",
+      "week":"29",
+      "message":"Are you having difficulty taking your pregnancy tablets like iron & folic acid? Try taking it along with foods like Eba, Amala, or Starch. It makes it easier to swallow"
+   },
+   {
+      "id":"77",
+      "week":"30",
+      "message":"Your baby can open and close his eyes. Inside your womb, he can tell day from night by the way the light changes"
+   },
+   {
+      "id":"78",
+      "week":"30",
+      "message":"Don?t ever feel sad about the sex of your baby. Be happy to carry that precious gift, no matter the sex"
+   },
+   {
+      "id":"79",
+      "week":"30",
+      "message":"30 minutes of walking each day has loads of benefits for pregnant mums, and it doesn?t even have to be in one go!"
+   },
+   {
+      "id":"80",
+      "week":"31",
+      "message":"It's best to give birth at the hospital. Find out the fastest way to get there. Get taxi numbers and enough phone balance for emergencies"
+   },
+   {
+      "id":"81",
+      "week":"31",
+      "message":"The recommended weight gain during pregnancy is between 11kg to 16kg. Ensure healthy weight gain and if there are disturbing changes, see a doctor"
+   },
+   {
+      "id":"82",
+      "week":"31",
+      "message":"Have you felt your belly tighten suddenly, then relax? This was a practice contraction. Your body is getting ready for labour"
+   },
+   {
+      "id":"83",
+      "week":"32",
+      "message":"Your baby is getting plump! This body fat will keep him warm when he is born. Have 2 cloths ready. One to dry him and one to wrap him in"
+   },
+   {
+      "id":"84",
+      "week":"32",
+      "message":"Have a hat or small cloth ready to cover your new baby's head. Babies lose lots of heat from their heads. Hold him close to keep him warm"
+   },
+   {
+      "id":"85",
+      "week":"32",
+      "message":"The hospital is the safest place to deliver especially when in labour becomes complicated. Ensure to get registered in a hospital"
+   },
+   {
+      "id":"86",
+      "week":"33",
+      "message":"Your baby may settle head down now, the best position to be born! You may find it harder to walk. It's time to slow down"
+   },
+   {
+      "id":"87",
+      "week":"33",
+      "message":"ALWAYS wear a seatbelt whenever in cars, vans or trucks. Remember you have another life to also protect now"
+   },
+   {
+      "id":"88",
+      "week":"33",
+      "message":"If your water breaks, go to the hospital. Your baby is at risk of infection. It may be a trickle or a gush"
+   },
+   {
+      "id":"89",
+      "week":"34",
+      "message":"Your baby will drop lower now ready to be born. You will breathe more easily, but may also have to urinate more frequently"
+   },
+   {
+      "id":"90",
+      "week":"34",
+      "message":"If you have previous history of difficulties in pregnancy or child birth, you may need to see your doctor even more often than usual "
+   },
+   {
+      "id":"91",
+      "week":"34",
+      "message":"Sudden swelling of hands, face and feet is a sign of a problem. Tell your family, and ask them to take you to the clinic if they see this"
+   },
+   {
+      "id":"92",
+      "week":"35",
+      "message":"Your body is designed to give birth. It will stretch and open with each contraction in labour, making space for your baby to be born"
+   },
+   {
+      "id":"93",
+      "week":"35",
+      "message":"Breastfeeding is the best way. It is safe, prevents illness, and helps your baby grow strong. Let your baby suckle whenever he wants"
+   },
+   {
+      "id":"94",
+      "week":"35",
+      "message":"Sometimes an operation is the safest way to have your baby. Choose a hospital where you trust the staff just in case you need an operation"
+   },
+   {
+      "id":"95",
+      "week":"36",
+      "message":"The very 1st milk from your breast is called colostrum and it is very important your baby takes that milk. Don?t discard it!"
+   },
+   {
+      "id":"96",
+      "week":"36",
+      "message":"It is important that you attend your antenatal clinic & see your doctor EVERY WEEK from now on till you deliver your baby!"
+   },
+   {
+      "id":"97",
+      "week":"36",
+      "message":"You may need to continue taking iron pills for 3 months after your baby's birth. Go to the clinic for a final check-up and your iron pills"
+   },
+   {
+      "id":"98",
+      "week":"37",
+      "message":"A cord infection can make your baby very ill. Sponge the cord with clean water and leave it uncovered to dry. Don't put anything else on it"
+   },
+   {
+      "id":"99",
+      "week":"37",
+      "message":"Contrary to the movies, labour is not a 10 minute event; it lasts much longer than that. Be prepared for labour; talk to your doctor about what to expect"
+   },
+   {
+      "id":"100",
+      "week":"37",
+      "message":"Don't bathe your baby for the first 6 hours of her life. Keep her well wrapped up and her head covered. The cord will drop off after a week"
+   },
+   {
+      "id":"101",
+      "week":"38",
+      "message":"Your baby is curled up inside you all ready to be born. Talk to your doctor about the vaccinations your baby needs when she is born"
+   },
+   {
+      "id":"102",
+      "week":"38",
+      "message":"A jelly-like substance on your underwear is a sign that labour will start soon. If you have bleeding like a period, go to the clinic"
+   },
+   {
+      "id":"103",
+      "week":"38",
+      "message":"Low back pain is a sign that the baby is low down, ready to get born. Make sure you can get to the hospital in time"
+   },
+   {
+      "id":"104",
+      "week":"39",
+      "message":"As you near due date, expect the process of labour to begin soon. Get excited as the final countdown will begin soon!"
+   },
+   {
+      "id":"105",
+      "week":"39",
+      "message":"Your baby needs nothing else apart from breast milk for the first 6 months. Your milk will contain all the water and goodness he needs"
+   },
+   {
+      "id":"106",
+      "week":"39",
+      "message":"Your baby will need the first dose of vaccines against polio and TB at birth. Make sure you baby gets them as soon as he is born"
+   },
+   {
+      "id":"107",
+      "week":"40",
+      "message":"Your new baby needs your care. If she's having trouble breathing or feeding, is too hot or too cold, or doesn't respond, go to the clinic"
+   },
+   {
+      "id":"108",
+      "week":"40",
+      "message":"Your newborn needs warmth. Nurse him on your bare chest under a blanket. Go to the hospital, if his eyes, palms and feet turn yellow"
+   },
+   {
+      "id":"109",
+      "week":"40",
+      "message":"Do you know that contractions don?t stop after delivery? Never panic as your womb is contracting to prevent excess loss of blood"
+   },
+   {
+      "id":"110",
+      "week":"41",
+      "message":"Like you, your baby is waiting for labour. You do this together! Make sure you have everything ready for labour"
+   },
+   {
+      "id":"111",
+      "week":"41",
+      "message":"After birth you will bleed like a heavy period. So be prepared to change pads every 4-6 hours. Don't insert anything into your vagina"
+   },
+   {
+      "id":"112",
+      "week":"41",
+      "message":"If your baby is still not here by now, let your doctor know. Make sure you can get to the clinic when labour does start"
+   },
+   {
+      "id":"113",
+      "week":"42",
+      "message":"If by now your baby is still not here, visit the hospital immediately!"
+   },
+   {
+      "id":"114",
+      "week":"42",
+      "message":"Regular, strong contractions are a sign of labour. If you feel them, go to the clinic immediately. Don't wait!"
+   },
+   {
+      "id":"115",
+      "week":"42",
+      "message":"When your baby is here, talk to your doctor about anything. He is your friend"
+   }
+]
